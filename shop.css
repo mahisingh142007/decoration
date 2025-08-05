@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(236, 236, 203);
+}
+.photo {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
